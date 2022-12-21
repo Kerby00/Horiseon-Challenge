@@ -3,4 +3,4 @@ This repo contains the original and updated source code for the Horiseon Inc. We
 
 ![horiseon screenshot](https://user-images.githubusercontent.com/119148777/209022675-ce5112c6-8f43-4c56-9084-5d7c4d2a1b98.jpg) :image of web page
 
-
+https://kerby00.github.io/Horiseon-Inc.-Development-Challenge/ : link to deployed site
